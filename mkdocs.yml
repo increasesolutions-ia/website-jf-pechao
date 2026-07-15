@@ -11,7 +11,8 @@ theme:
 
 nav:
   - Início: index.md
-  - Estratégia: estrategia.md
+  - Estratégia:
+      - Etapa 0 - Auditoria Estratégica: 01-estrategia.md
   - Identidade Visual: identidade-visual.md
   - Arquitetura: arquitetura.md
   - Design System: design-system.md
