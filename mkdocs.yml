@@ -1,0 +1,22 @@
+﻿site_name: Website JF Pechão
+
+site_url: https://increasesolutions-ia.github.io/website-jf-pechao/
+
+repo_url: https://github.com/increasesolutions-ia/website-jf-pechao
+
+repo_name: GitHub
+
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Estratégia: estrategia.md
+  - Identidade Visual: identidade-visual.md
+  - Arquitetura: arquitetura.md
+  - Design System: design-system.md
+  - Páginas: paginas.md
+  - WordPress & Elementor: wordpress-elementor.md
+  - SEO: seo.md
+  - Performance: performance.md
+  - Testes: testes.md
