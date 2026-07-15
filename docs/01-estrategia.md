@@ -4,7 +4,10 @@
 
 ### Estado
 
-Concluída
+**Concluída**
+
+**Versão:** 0.1  
+**Data:** 15 de julho de 2026
 
 ---
 
@@ -90,7 +93,7 @@ Disponibilizar informação institucional de forma organizada, clara e acessíve
 
 ### Junta de Freguesia de Pechão
 
-Pontos fortes:
+**Pontos fortes**
 
 - Conteúdo institucional
 - Património
@@ -100,7 +103,7 @@ Pontos fortes:
 
 ### Junta de Freguesia de Quelfes
 
-Pontos fortes:
+**Pontos fortes**
 
 - Serviços digitais
 - Comunicação
@@ -109,7 +112,7 @@ Pontos fortes:
 
 ### Junta de Freguesia da Moita (jfmoita.pt)
 
-Pontos fortes:
+**Pontos fortes**
 
 - Simplicidade
 - Identidade local
@@ -160,7 +163,7 @@ A Junta de Freguesia de Pechão deverá ser percecionada como uma entidade moder
 
 ## Acessibilidade
 
-Objetivo de conformidade com as WCAG 2.2 nível AA.
+Objetivo de conformidade com as **WCAG 2.2 – Nível AA**.
 
 ---
 
@@ -242,18 +245,15 @@ O website deverá responder às seguintes questões:
 
 ## Critérios de Sucesso
 
-- Informação facilmente acessível
-- Website responsivo
-- Conformidade com as WCAG
-- Elevado desempenho
-- Design consistente
-- Gestão simples de conteúdos
+- Informação facilmente acessível.
+- Website totalmente responsivo.
+- Conformidade com as WCAG 2.2 AA.
+- Elevado desempenho.
+- Design consistente.
+- Gestão simples de conteúdos.
 
 ---
 
-## Estado da Etapa
+## Conclusão
 
-**Concluída**
-
-Data: 15 de julho de 2026
-Versão: 0.1
+A Auditoria Estratégica estabelece a base conceptual e técnica para o desenvolvimento do novo website da Junta de Freguesia de Pechão. Todas as fases seguintes deverão respeitar as decisões documentadas nesta etapa, garantindo coerência ao longo de todo o projeto.
